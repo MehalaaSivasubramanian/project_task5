@@ -28,7 +28,7 @@ The complaints are classified into the following categories:
 ## 💻 Installation
 ### Run the notebook:
 You can open and run the notebook directly in Google Colab without installing anything:  
-[Open Task5.ipynb in Google Colab](#) *(Replace with actual link if available)*
+[Open Task5.ipynb in Google Colab](https://colab.research.google.com/drive/1_XSjz7pMzBxRzUD26_1s4Do5JFQ6LsNO#scrollTo=SjBdfhqQYJsd)*
 
 ---
 
